@@ -1,0 +1,3 @@
+python rename_videos.py 批量重命名
+ python main.py 启动文件
+ 
